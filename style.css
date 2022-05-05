@@ -1,0 +1,129 @@
+.one{
+
+  background-color: #B4E197;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  color: #66bfbf;
+  margin-top: 50px;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 5rem;
+}
+.coder{
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.shooter{
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+body{
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+h2
+{  color:#66bfbf;
+  font-family: 'Montserrat', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+ hr{
+   border:dotted #eaf6f6 6px;
+   border-bottom: none;
+   width: 5%;
+   margin: 100px auto;
+ }
+h3{
+  color:#11999e;
+  font-family: 'Montserrat', cursive;
+}
+.tree{
+  width: 40%;
+}
+.prof{
+  width: 200px
+}
+.top{
+width: 250px;
+position: absolute;
+right: 150px;
+top: 150px;
+}
+.intro{
+
+   width: 30%;
+   margin: auto;
+}
+.down{
+  width: 250px;
+  position: absolute;
+  left:150px
+}
+.middle-container{
+      margin: 100px 0;
+}
+
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+  }
+p{
+  line-height: 2;
+}
+.comment{
+  width: 40%;
+  margin: 100px auto 100px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Merriweather', serif;
+
+  color: #fff7ff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #B4E197;
+  padding:50px 0 20px;
+}
+a:hover{
+  color:#e4f6f6;
+}
+a{
+  color:#11999e;
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+.copy{
+  color: #eaf6f6;
+  padding-top: 20px
+}
